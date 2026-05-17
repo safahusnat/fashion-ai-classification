@@ -36,6 +36,20 @@ ResNet-18 achieved the strongest overall performance across all datasets, outper
 * Precision
 * Recall
 * Macro F1-score
+* ## Performance Results
+
+### Model Performance Table
+
+![ResultsTavle](ResultsTable.png)
+
+### Accuracy Comparison Across Models and Datasets
+
+![Accuracy Comparison](AccuracyComparison.png)
+
+### Example Confusion Matrix
+
+![Confusion Matrix](ConfusionMatrixShoes.png)
+
 
 ## Skills Demonstrated
 
