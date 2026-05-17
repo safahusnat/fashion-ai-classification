@@ -6,7 +6,7 @@ Final Year Dissertation Project comparing Deep Learning and Traditional Machine 
 
 This project evaluates the performance of:
 
-* ResNet-18 (Transfer Learning)
+* ResNet-18 
 * Random Forest
 * K-Means Clustering
 
